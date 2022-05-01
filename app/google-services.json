@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "788080883211",
+    "project_id": "e-rating-app",
+    "storage_bucket": "e-rating-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788080883211:android:9d7b9fa8e59d8d96af790e",
+        "android_client_info": {
+          "package_name": "com.example.eratingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788080883211-32ofgbkg0av779kr33iibthgpb5c20a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSlYCkCbh4AuT_MCjZNztba13HPoscZSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788080883211-32ofgbkg0av779kr33iibthgpb5c20a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
